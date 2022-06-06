@@ -1,0 +1,15 @@
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/bin/Debug/net6.0/CollectionsPractice
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/bin/Debug/net6.0/CollectionsPractice.deps.json
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/bin/Debug/net6.0/CollectionsPractice.runtimeconfig.json
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/bin/Debug/net6.0/CollectionsPractice.dll
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/bin/Debug/net6.0/CollectionsPractice.pdb
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.csproj.AssemblyReference.cache
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.AssemblyInfo.cs
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.dll
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/refint/CollectionsPractice.dll
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.pdb
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/CollectionsPractice.genruntimeconfig.cache
+/Users/austin/Desktop/C#/Fundamentals/CollectionsPractice/obj/Debug/net6.0/ref/CollectionsPractice.dll
